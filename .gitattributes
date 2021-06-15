@@ -23,3 +23,4 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.flare filter=lfs diff=lfs merge=lfs -text
 *.playable filter=lfs diff=lfs merge=lfs -text
+*.mixer filter=lfs diff=lfs merge=lfs -text
